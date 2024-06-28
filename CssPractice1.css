@@ -1,0 +1,35 @@
+﻿body {
+    background-color:antiquewhite;
+}
+
+h3{
+    color:orangered;
+}
+.pink {
+    color: #4cff00;
+    color: rgb(255,255,255);
+    color: hsl(0,100%,50%);
+}
+.box{
+    height:100px;
+    width:100px;
+    padding:40px;
+    border:10px solid blue;
+    margin:20px;
+    background-color:beige;
+    color: aqua;
+}
+
+.grid-container{
+    display:grid;
+    
+}
+.grid-item-1{
+
+}
+.grid-item-2{
+
+}
+.grid-item-3{
+
+}
